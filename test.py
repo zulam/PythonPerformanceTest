@@ -3,7 +3,6 @@
 import cbpro   
 import time
 import requests
-import time
 
 orig_prod = {}
 run = True
